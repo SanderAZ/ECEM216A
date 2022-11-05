@@ -3,8 +3,8 @@ HW3/HW3.hw/*
 HW3/HW3.ip_user_files/*
 HW3/HW3.sim/*
 
-lab1/lab1.cache/*
-lab1/lab1.hw/*
-lab1/lab1.ip_user_files/*
-lab1/lab1.sim/*
+lab1_part1/lab1_part1.cache/*
+lab1_part1/lab1_part1.hw/*
+lab1_part1/lab1_part1.ip_user_files/*
+lab1_part1/lab1_part1.sim/*
 *.xpr
